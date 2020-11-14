@@ -1,4 +1,4 @@
-# kakaomap
+# safemap
 
 ## Project setup
 ```
